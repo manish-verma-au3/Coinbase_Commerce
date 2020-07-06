@@ -1,0 +1,18 @@
+
+.dash{
+    margin-top: 20px;
+  
+}
+
+.checkcol{
+    background-color:white;
+    height: 50vh;
+}
+
+.checkbutton{
+    background-color: rgb(22, 82, 240);
+    justify-content: center;
+    align-items: center;
+    margin-left: 320px;
+    margin-top: 20px;
+}
